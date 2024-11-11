@@ -51,13 +51,13 @@ streamlit run app.py
 ```
 This will start a local Streamlit server, typically at http://localhost:8501, where you can access and interact with the app.
 
-### Usage
-# Open Emaily: Open your browser and go to http://localhost:8501.
-# Explore Features: Use the dashboard to create, monitor, and analyze email campaigns.
-# Manage Templates: Customize email templates according to your requirements.
-# View Analytics: Get real-time insights and analytics on the performance of your campaigns.
-### Contributing
-# We welcome contributions to make Emaily even better! Here’s how you can contribute:
+## Usage
+Open Emaily: Open your browser and go to http://localhost:8501.
+Explore Features: Use the dashboard to create, monitor, and analyze email campaigns.
+Manage Templates: Customize email templates according to your requirements.
+View Analytics: Get real-time insights and analytics on the performance of your campaigns.
+## Contributing
+We welcome contributions to make Emaily even better! Here’s how you can contribute:
 
 Fork this repository to your GitHub account.
 
